@@ -1,2 +1,2 @@
-# Vanilla_Login2
+# Vanilla_Login
 Created with CodeSandbox
